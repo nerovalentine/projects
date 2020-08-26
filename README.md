@@ -1,2 +1,2 @@
 # projects
-Репозиторий https://github.com/nerovalentine/projects будет содержать проекты в области Data Science отражающие текущие навыки Зоткина Евгения.
+Репозиторий https://github.com/nerovalentine/projects отражает текущие навыки Зоткина Евгения в области Data Science.
